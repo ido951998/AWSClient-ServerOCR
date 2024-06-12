@@ -1,0 +1,4 @@
+com/example/myapp/S3Tool.class
+com/example/myapp/EC2Tool.class
+com/example/myapp/local.class
+com/example/myapp/SQSTool.class
